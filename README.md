@@ -8,6 +8,11 @@ Built for service reps, site managers, and vendors to ensure:
 - 📉 Real-time water and chemical savings
 - 🧠 Field-based training and AI-enhanced decision making
 
+WTControllerSim is a vendor-neutral, independently developed training and optimization simulator.  
+It is currently a proof of concept and has not been applied or used in production environments. No data used whatsoever.
+It is inspired by publicly visible controller workflows and logic.  
+It does not include or redistribute proprietary firmware, internal data, or trade secrets from any manufacturer.  
+WTControllerSim is not affiliated with or endorsed by any specific company or brand.
 ---
 
 ## 📦 Features
