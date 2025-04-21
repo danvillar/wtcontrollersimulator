@@ -5,8 +5,8 @@ const buttons = [
 ];
 
 const bootScreen = `
-  ADVANTAGE CONTROLS
-  SYSTEM LOADING...
+  SMART CONTROL SYSTEM
+  SIMULATOR BOOTING...
   PLEASE WAIT
 `;
 
